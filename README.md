@@ -40,8 +40,7 @@ Within this program, we will make use of the following external python modules:
 
 ## Installation Guide
 
-In this Challenge, you’ll create the GitHub repository for this Challenge.  Within your terminal, input the following commands:
-
+In this Challenge, you’ll create the GitHub repository for this Challenge.  
 
 ---
 
